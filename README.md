@@ -1,1 +1,3 @@
-# Reposit
+# Masters Project Data Mining for energy forecasting
+
+With energy concerns increasing, engineers and researchers are seeking ways to increase efficiency of building systems. Buildings are increasingly consisting of multiple uses so the need of demand forecasting of a building’s energy consumption is of utmost importance to energy savings. A review on current supervised data mining techniques is explored, with the aim to contribute new knowledge to the field by using energy consumption data of other buildings with the same use and geographically related as predictors. Ensemble method is used to create a forecaster with 2 layers of MLAs, 1st layer consisting of RF, ANN, SVR, K-NN and GPR, 2nd layer consisting of one MLA of the 1st layer MLA. The results show that the SVR is best performing generalising MLA and that the best input variables are that of Group 4, which consist of data of electricity consumption of other buildings.
